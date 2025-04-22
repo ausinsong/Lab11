@@ -2,7 +2,7 @@ import os
 import matplotlib.pyplot as plt
 
 def print_menu():
-    print("1. Student Grade")
+    print("1. Student grade")
     print("2. Assignment statistics")
     print("3. Assignment graph\n")
     return input("Enter your selection: ")
